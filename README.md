@@ -1,6 +1,6 @@
 # waterfall-release
 waterfall release purpose
 
-![0001f183-738b-476c-b971-845bef677143](https://github.com/user-attachments/assets/0001f183-738b-476c-b971-845bef677143)
+![screenshot-20250809-004849](https://github.com/user-attachments/assets/17f9160f-04be-44e7-97d1-435bbca6bac1)
 
 ![2455cfc0-503f-41fe-9f77-009271d8b923](https://github.com/user-attachments/assets/9f567aad-7116-454c-9f58-784347b9e3e3)
